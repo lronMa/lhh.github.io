@@ -1,0 +1,57 @@
+body{
+}
+.lhh_vip-help-page{
+	background-color: #F6F6F6;
+}
+.lhh_vip-help{
+    padding: 45px 0 70px;
+}
+.lhh_cwidth{
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lhh_clearfix{
+    zoom: 1;
+}
+.lhh_questions-lists{
+	background-color: #fff;
+    padding: 35px;
+}
+.lhh_questions-lists>ul{
+	list-style: none;
+}
+.lhh_questions-lists>ul>li{
+    padding: 15px 0;
+    
+}
+.lhh_questions-lists>ul>li>.lhh_item-Q{
+	display: block;
+    padding: 5px 10px;
+    color: #2d2d2d;
+    font-size: 14px;
+}
+.lhh_questions-lists>ul>li>.lhh_vip-help-info{
+	background-color: #f2f2f2;
+    padding: 10px 15px;
+    margin-top: 10px;
+    margin-left: 2em;
+    width: 800px;
+    font-size: 14px;
+    display: none;
+}
+.lhh_questions-lists>ul>li>.lhh_vip-help-info>p{
+	text-indent: 2em;
+    line-height: 30px;
+    color: #5A5A5A;
+}
+img{
+	width: 100%;
+    border: none;
+}
+.lhh_vip-help-page>.lhh_vip-help>.lhh_questions-lists>ul>li>.lhh_item-Q:hover{
+	color: red;
+	background: #CCCCCC;
+}
+
+	
